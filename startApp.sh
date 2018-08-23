@@ -1,6 +1,6 @@
 #!/bin/sh
 export NODE_ENV=production
-export DB_PRD_HOST=dellstore2.us-west-2.rds.amazonaws.com
+export DB_PRD_HOST=spidertutorial-postgresql.c6sxa1kz980e.us-east-1.rds.amazonaws.com
 export DB_PRD_USER=spidertutorial
 export DB_PRD_PASS=spidertutorial
 export NODE_HOST=localhost
